@@ -1,3 +1,5 @@
+<img src="profile-photo.jpg" alt="Harish Tiwari - Lead Software Engineer" width="100%" />
+
 ### Hi there, I'm Harish Tiwari 👋
 
 **Lead Software Engineer** with 10+ years of experience building scalable full-stack web applications, cloud-native architectures, and high-availability systems across SaaS, fintech, e-commerce, and enterprise domains.
