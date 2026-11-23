@@ -1,4 +1,4 @@
-<img src="profile-photo.jpg" alt="Harish Tiwari - Lead Software Engineer" width="100%" />
+<img src="photo.png" alt="Harish Tiwari" width="160" align="right" />
 
 ### Hi there, I'm Harish Tiwari 👋
 
@@ -9,6 +9,8 @@
 - ☁️ **Cloud & Architecture:** AWS, Serverless, Event-Driven Systems, CI/CD automation
 - 📍 **Location:** Indore, India
 - 📫 **Connect:** [LinkedIn](https://linkedin.com/in/harish-tiwari-885a66123) | [Email](mailto:harishtiwari105@gmail.com)
+
+<br clear="right"/>
 
 ---
 
