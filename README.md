@@ -1,4 +1,4 @@
-<img src="photo.png" alt="Harish Tiwari" width="160" align="right" />
+<img src="profile-photo.jpg" alt="Harish Tiwari" width="160" align="right" />
 
 ### Hi there, I'm Harish Tiwari 👋
 
